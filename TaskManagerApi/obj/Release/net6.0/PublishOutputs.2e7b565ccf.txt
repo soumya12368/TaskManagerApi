@@ -1,0 +1,11 @@
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\TaskManagerApi.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\TaskManagerApi.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\TaskManagerApi.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\TaskManagerApi.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\TaskManagerApi.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Phase4\Day6\TaskManagerApi\TaskManagerApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "khErf/fGueV3aYHdqeflTKMyTN4HZBO2uRqMDUkpJdY=",
+  "Source": "TaskManagerApi",
+  "BasePath": "_content/TaskManagerApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4H9s7YPwUYaSVNMvc8QbXxDA1QdlfRnx8Dgp/HSzvsUV0GB3Dc54mht1HuFWs00XjXmj0Uba8Dc+gHDq/31Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soums\\OneDrive\\Desktop\\Phase4\\Phase4\\Day6\\TaskManagerApi\\TaskManagerApi\\TaskManagerApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soums\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\soums\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
